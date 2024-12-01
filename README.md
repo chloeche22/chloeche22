@@ -1,10 +1,6 @@
 # 안녕하세요 👋 
 AI-개발자 김은채입니다. ✨
 
-## About me 🚀
-- 📚 현재 NLP 공부하고 있어요
-- 🎯 매일 1커밋 운동 진행중!
-- 💡 새로운 기술을 배우는 것을 좋아해요
 
 ## 기술 스택 💻
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
