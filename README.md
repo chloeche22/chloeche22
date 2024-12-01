@@ -13,9 +13,17 @@ AI-개발자 김은채입니다. ✨
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)
 
-## GitHub 통계 📊
-![GitHub 통계](https://github-readme-stats.vercel.app/api?username=chloeche22&show_icons=true&theme=radical)
 
+## 활동 통계 📊
+[![Commits Badge](https://badges.pufler.dev/commits/yearly/chloeche22)](https://badges.pufler.dev)
+[![Years Badge](https://badges.pufler.dev/years/chloeche22)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/chloeche22)](https://badges.pufler.dev)
+[![Gists Badge](https://badges.pufler.dev/gists/chloeche22)](https://badges.pufler.dev)
+
+<!-- 
+스트릭 통계를 보여주는 다른 옵션:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chloeche22&theme=dark)](https://git.io/streak-stats)
+-->
 ## 많이 사용하는 언어 🔤
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chloeche22&layout=compact&theme=radical)
 
